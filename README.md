@@ -32,8 +32,8 @@ Mengembangkan modul WMS terintegrasi untuk sistem ERP perusahaan, termasuk fitur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=phynax&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phynax&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Phynax&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phynax&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165" alt="Top Languages"/>
 
 <br>
 
