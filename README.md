@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D5F7,50:E8C5E5,100:C9B6E4&height=180&section=header&text=Phynax&fontSize=48&fontColor=2B2B3D&fontAlignY=40&desc=Software%20Engineer%20%26%20Game%20Developer&descAlignY=62&descSize=18" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D5F7,100:C9B6E4&height=180&section=header&text=Phynax&fontSize=48&fontColor=2B2B3D&fontAlignY=40&desc=Software%20Engineer%20and%20Game%20Developer&descAlignY=62&descSize=18" alt="Header banner"/>
 
 </div>
 
@@ -32,12 +32,12 @@ Mengembangkan modul WMS terintegrasi untuk sistem ERP perusahaan, termasuk fitur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=phynax&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phynax&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165" alt="Top Languages"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phynax&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -45,10 +45,10 @@ Mengembangkan modul WMS terintegrasi untuk sistem ERP perusahaan, termasuk fitur
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/phynax">
   <img src="https://img.shields.io/badge/LinkedIn-2B2B3D?style=flat-square&logo=linkedin&logoColor=E8C5E5" alt="LinkedIn"/>
 </a>
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/phynax">
   <img src="https://img.shields.io/badge/Instagram-2B2B3D?style=flat-square&logo=instagram&logoColor=E8C5E5" alt="Instagram"/>
 </a>
 <a href="mailto:youremail@example.com">
@@ -57,12 +57,12 @@ Mengembangkan modul WMS terintegrasi untuk sistem ERP perusahaan, termasuk fitur
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=C9B6E4&label=Profile+Views" alt="Visitor Count"/>
+<img src="https://komarev.com/ghpvc/?username=phynax&style=flat-square&color=C9B6E4&label=Profile+Views" alt="Visitor Count"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9B6E4,50:E8C5E5,100:F6D5F7&height=100&section=footer" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9B6E4,100:F6D5F7&height=100&section=footer" alt="Footer banner"/>
 
 </div>
