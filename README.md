@@ -1,31 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=PLAYER+1+HAS+ENTERED+THE+CHAT...;LOADING+PHYNAX.EXE...;HI%2C+I'M+PHYNAX+%F0%9F%91%8B;SOFTWARE+ENGINEER+%26+GAME+DEV;SELECT+YOUR+CHARACTER!" alt="Typing SVG"/>
-
-<img src="https://img.shields.io/badge/CARTRIDGE-PHYNAX__EXE-black?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000" alt="Cartridge Label"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D5F7,50:E8C5E5,100:C9B6E4&height=180&section=header&text=Phynax&fontSize=48&fontColor=2B2B3D&fontAlignY=40&desc=Software%20Engineer%20%26%20Game%20Developer&descAlignY=62&descSize=18" alt="Header banner"/>
 
 </div>
 
-<br>
+## About Me
 
-## 🕹️ Character Info
+Lulusan Rekayasa Perangkat Lunak (RPL) yang fokus pada pengembangan full-stack dan game development. Tertarik pada sistem yang rapi, efisien, dan mudah dirawat — dari arsitektur basis data hingga interaksi di sisi pengguna.
 
-<table>
-  <tr>
-    <td width="22%" align="center">
-      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Phynax Avatar"/>
-    </td>
-    <td width="78%">
-      <b>Name</b> : PHYNAX <br>
-      <b>Class</b> : Software Engineer & Game Developer <br>
-      <b>Level</b> : Lulusan Rekayasa Perangkat Lunak (RPL) <br>
-      <b>Status</b> : <code>● ONLINE</code> — Siap menerima quest baru <br><br>
-      <i>"Setiap baris kode adalah satu langkah menuju level berikutnya."</i>
-    </td>
-  </tr>
-</table>
+> *Kode yang baik adalah cerita yang mudah dibaca.*
 
-## 🎒 Inventory — Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -33,61 +18,51 @@
 
 </div>
 
-## 🌳 Skill Tree — Special Abilities
+## Currently Focused On
 
-- 🛠️ **PC Assembly & Troubleshooting** — merakit, mengonfigurasi, dan memperbaiki PC dari nol hingga tuntas.
-- 💻 **Full-Stack Development** — membangun aplikasi web responsif dari front-end hingga back-end.
-- 🗄️ **Database Architecture** — merancang skema basis data relasional yang rapi, aman, dan efisien.
-- 🎮 **Game Development** — membuat game menggunakan Unity dan C#.
+- Mendalami fundamental dan implementasi AI Engineering
+- Melanjutkan pendidikan formal ke jenjang yang lebih tinggi
 
-## 📜 Quest Log
+## Featured Project
 
-**✅ Quest Complete — Warehouse Management System (WMS)**
-Mengembangkan modul WMS terintegrasi untuk sistem ERP perusahaan, termasuk fitur penyembunyian harga (*price hiding*).
-`+9999 XP` Full-Stack Development
+**Warehouse Management System (WMS)**
+Mengembangkan modul WMS terintegrasi untuk sistem ERP perusahaan, termasuk fitur penyembunyian harga (*price hiding*) untuk kebutuhan operasional.
 
-**⏳ Main Quest — AI Engineering Mastery**
-`[██████░░░░░░░░░░░░░░] 30%`
-- Objective 1: Mendalami fundamental dan implementasi AI Engineering
-- Objective 2: Melanjutkan pendidikan formal ke jenjang yang lebih tinggi
-
-Status: `IN PROGRESS...`
-
-## 🏆 Trophy Room
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_mocha&hide_border=true" height="165" alt="Top Languages"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Top Languages"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="Trophies"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
-## 🎮 Multiplayer Mode — Connect With Me
+## Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2B2B3D?style=flat-square&logo=linkedin&logoColor=E8C5E5" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-2B2B3D?style=flat-square&logo=instagram&logoColor=E8C5E5" alt="Instagram"/>
 </a>
 <a href="mailto:youremail@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-2B2B3D?style=flat-square&logo=gmail&logoColor=E8C5E5" alt="Email"/>
 </a>
 
 <br><br>
 
-**GAME OVER... INSERT COIN TO CONTINUE EXPLORING MY REPOSITORIES ▼**
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=C9B6E4&label=Profile+Views" alt="Visitor Count"/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=39FF14&label=VISITOR+COUNT" alt="Visitor Count"/>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9B6E4,50:E8C5E5,100:F6D5F7&height=100&section=footer" alt="Footer banner"/>
 
 </div>
